@@ -14,7 +14,8 @@
         "7e0aecf7-e99c-46ef-bafe-7bfbb6702ba9",
         "d7fb4f86-0699-4fbf-9dfa-853a199262d6",
         "ced125f2-c8d8-40ec-8371-715a82d0aaf1",
-        "a170eab0-ed9c-4a1d-b98f-9c9b5c6520b8"
+        "a170eab0-ed9c-4a1d-b98f-9c9b5c6520b8",
+        "05eb8e6e-4266-4a2b-8905-ea0e2caf77bd"
     ],
     "filterType": "GMScript",
     "folderName": "Soulcade UI Framework",
