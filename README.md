@@ -5,8 +5,7 @@ A Library Full of useful scripts for implementing your UI designs in Gamemaker S
 
 ## Getting Started
 
-The latest stable version of this is readily avalaible to import directly into your project file via the YoYoGames Marketplace, and the 
-latest unstable version will be avaliable here. 
+The latest stable version of this is will be readily avalaible to import directly into your project file via the YoYoGames Marketplace upon release, and the latest unstable version will be avaliable here. 
 
 ### Prerequisites
 
