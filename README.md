@@ -1,7 +1,7 @@
 # GMS2-UI-Library
 A Library Full of useful scripts for implementing your UI designs in Gamemaker Studio 2
 
-![alt tag](https://media.giphy.com/media/l0IykpAbJpbAfbNVm/giphy.gif)
+![alt tag](https://media.giphy.com/media/xULW8xonWgtXDCy6Kk/giphy.gif)
 
 ## Getting Started
 
